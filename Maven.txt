@@ -4,7 +4,7 @@ What is Maven
 At its simplest, Maven is a build tool
  - It always produces one artifact(component)
  - It helps us manage dependencies
- -maven is a tool
+ -maven is a build tool
 
 It can also be used as a project management tool
  - It handles versioning and releases
